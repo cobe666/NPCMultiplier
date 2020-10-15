@@ -1,0 +1,1 @@
+print("NPCMultiplier initialized by cobe666")
